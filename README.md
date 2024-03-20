@@ -1,6 +1,6 @@
 # Tugas-2-Machine-Learning
 
-# Cara Menjalankan Source Code
+## Cara Menjalankan Source Code
 
 1. Pastikan Anda memiliki Python yang terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya dari [situs web resmi Python](https://www.python.org/).
 
